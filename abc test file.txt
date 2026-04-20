@@ -1,1 +1,78 @@
-abc test file
+PROJECTWEEK APRIL 2026 
+Jullie hebben samen een eigen softwarebedrijf opgericht. Jullie willen samen geld gaan verdienen. Jullie zijn als team ook gezamenlijk verantwoordelijk voor het klantcontact. Ook voeren jullie samen de gehele opdracht uit en zorgen jullie voor een eindresultaat waar de klant tevreden mee is. 
+Het doel is om een website te ontwikkelen voor kinderen die deelnemen aan de kindervakantieweek (KVW) hier in Gorinchem, die plaatsvindt n 20 tot en met 24 juli. Zorg ervoor dat de website aantrekkelijk en leuk is voor kinderen. 
+Daarnaast moet de leiding tijdens de KVW eenvoudig gegevens kunnen invoeren en uploaden. Voor hen moet de website overzichtelijk en netjes zijn, zonder speelse vormgeving. 
+Het thema van de week is Middeleeuwen. Dit mogen jullie uitwerken zoals je wilt. 
+ 
+Website zichtbaar voor kinderen/ouders: 
+Homepagina 
+Welkom, thema van de week, leuke kleuren en afbeeldingen 
+Toevoegen email adres aan de lijst van nieuwsbrief volgers 
+Dagprogramma 
+Wat gaan we elke dag (dagdeel) doen (spelletjes, activiteiten, verrassingen) 
+Foto’s & video’s 
+Dagelijkse updates met foto’s van wat ze hebben gedaan 
+Nieuws / updates 
+Korte berichtjes zoals “Vandaag watergevecht gehad!” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Website zichtbaar voor leiding: 
+Aanpassen van het dagprogramma.  
+Per dag / dagdeel	 
+Per leeftijd (Kleuters / Onderbouw / Bovenbouw) 
+Activiteit met een beschrijving wat er te doen is 
+Naam       		30 tekens 
+Beschrijving		200 tekens 
+Iedere leeftijd heeft per dag een eigen programma. Dit duurt een dagdeel (ochtend/middag) 
+Foto’s 
+Per dag zijn foto’s zichtbaar 
+Uploaden en verwijderen van foto’s  
+Het moet mogelijk zijn om achteraf foto’s van een dag toe te voegen 
+Nieuws 
+Een lijst met nieuwtjes en korte berichten 
+Toevoegen/wijzigen en verwijderen 
+Tekst van maximaal 128 tekens lang 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Activiteiten 
+Maak vooraf een werkverdeling wie wat gaat doen 
+Communiceer tijdens het project met elkaar 
+Zorg voor duidelijke code, die je later kunt gebruiken in je portfolio 
+Zorg dat alle functionaliteit gebouwd wordt 
+Stem onderling de programmeertaal af 
+Stel deadlines voor verschillende onderdelen 
+Houd de voortgang bij 
+Test de website regelmatig 
+Verdeel taken op basis van ieders sterke punten 
+Maak een ontwerp (design) voordat je begint met bouwen 
+Zorg voor een gebruiksvriendelijke interface 
+Maak de website geschikt voor mobiel (responsive) 
+Gebruik versiebeheer (bijvoorbeeld Git) 
+Maak regelmatig back-ups van je werk 
+Zorg voor een duidelijke mappenstructuur 
+Maak afspraken over naamgeving in de code 
+Test de website op verschillende browsers 
+Communiceer tijdens het project met de opdrachtgever voor confirmatie 
+Vraag feedback van de opdrachtgever tussendoor 
+Verwerk feedback in het project 
+Controleer op fouten (bugs) en los deze op 
+Lever het project netjes en compleet op 
+Reflecteer op het project (wat ging goed en wat kan beter) 
+Werk goed samen en help elkaar waar nodig 
+Bereid een einddemo voor 
+ 
