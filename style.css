@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f4e4c1;
+    font-family: 'MedievalSharp', cursive;
+}
+
+header {
+    background: darkred;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background: #5a3e1b;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background: url('castle.jpg') no-repeat center/cover;
+    color: white;
+}
