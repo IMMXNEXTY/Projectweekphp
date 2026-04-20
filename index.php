@@ -1,10 +1,9 @@
-
-<!DOCTYPE html>
 <html lang="nl">
 <head>
     <meta charset="UTF-8">
     <title>KVW Middeleeuwen</title>
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -25,10 +24,6 @@
     <p>Doe mee aan epische avonturen!</p>
 </section>
 
-<section>
-    <h2>Nieuws</h2>
-    <div id="nieuws"></div>
-</section>
 
 <footer>
     <p>KVW Gorinchem 2026</p>
