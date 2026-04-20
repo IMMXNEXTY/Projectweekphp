@@ -13,7 +13,6 @@
 
 <nav>
     <a href="index.php">Home</a>
-    <a href="nieuws.php">Nieuws</a>
 </nav>
 
 <section>
