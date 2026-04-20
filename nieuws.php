@@ -15,12 +15,12 @@ include 'db.php';
 // toevoegen
 if (isset($_POST['tekst'])) {
     $tekst = $_POST['tekst'];
-    $sql = "INSERT INTO nieuws (tekst) VALUES ('$tekst')";
+    $sql = "INSERT INTO nieuwsbrief  VALUES ('$tekst')";
     $conn->query($sql);
 }
 
 // ophalen
-$result = $conn->query("SELECT * FROM nieuws ORDER BY id DESC");
+$result = $conn->query("SELECT * FROM nieuwsbrief");
 
 while ($row = $result->fetch_assoc()) {
     echo "<p>" . $row['tekst'] . "</p>";
