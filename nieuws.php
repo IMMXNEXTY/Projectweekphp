@@ -20,7 +20,7 @@ if (isset($_POST['tekst'])) {
 }
 
 // ophalen
-$result = $conn->query("SELECT * FROM nieuws ORDER BY id DESC");
+$result = $conn->query("SELECT * FROM nieuwsbrief ORDER BY id DESC");
 
 while ($row = $result->fetch_assoc()) {
     echo "<p>" . $row['tekst'] . "</p>";
