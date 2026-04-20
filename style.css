@@ -10,18 +10,21 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
+    font-family: 'MedievalSharp', cursive;
 }
 
 nav {
     background: #5a3e1b;
     padding: 10px;
     text-align: center;
+    font-family: 'MedievalSharp', cursive;
 }
 
 nav a {
     color: white;
     margin: 10px;
     text-decoration: none;
+    font-family: 'MedievalSharp', cursive;
 }
 
 .hero {
@@ -29,4 +32,5 @@ nav a {
     padding: 50px;
     background: url('castle.jpg') no-repeat center/cover;
     color: white;
+    font-family: 'MedievalSharp', cursive;
 }
