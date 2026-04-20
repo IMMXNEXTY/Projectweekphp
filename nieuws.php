@@ -13,22 +13,16 @@
 
 <nav>
     <a href="index.php">Home</a>
+    <a href="dagprogramma.html">Dagprogramma</a>
+    <a href="nieuws.php">Nieuws</a>
+    <a href="foto's.html">Bekijk foto's</a>
 </nav>
 
 <section>
     <h2>Laatste updates</h2>
-
-    <?php include 'nieuws_tonen.php'; ?>
-
 </section>
 
-</body>
-</html>
-
-
-<?php
-include 'db.php';
-?>
+<hr>
 
 <h1>Nieuws beheren</h1>
 
@@ -39,18 +33,11 @@ include 'db.php';
 
 <hr>
 
-<?php
-// toevoegen
-if (isset($_POST['tekst'])) {
-    $tekst = $_POST['tekst'];
-    $sql = "INSERT INTO nieuws (tekst) VALUES ('$tekst')";
-    $conn->query($sql);
-}
+<form action="create.php" method="POST">
+    <p>E-mail</p>
+    <input type="text" name="email">
+    <button type="submit">Versturen</button>
+</form>
 
-// ophalen
-$result = $conn->query("SELECT * FROM nieuwsbrief ORDER BY id DESC");
-
-while ($row = $result->fetch_assoc()) {
-    echo "<p>" . $row['tekst'] . "</p>";
-}
-?>
+</body>
+</html>

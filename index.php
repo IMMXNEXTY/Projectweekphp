@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="nl">
 <head>
     <meta charset="UTF-8">
@@ -26,10 +24,6 @@
     <p>Doe mee aan epische avonturen!</p>
 </section>
 
-<section>
-    <h2>Nieuws</h2>
-    <div id="nieuws"></div>
-</section>
 
 <footer>
     <p>KVW Gorinchem 2026</p>
