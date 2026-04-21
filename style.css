@@ -7,7 +7,7 @@ body {
 
 header {
     background: darkred;
-    color: white;
+    color:  rgb(255, 255, 255);
     text-align: center;
     padding: 20px;
     font-family: 'MedievalSharp', cursive;
@@ -29,8 +29,8 @@ nav a {
 
 .hero {
     text-align: center;
-    padding: 50px;
-    background: url('castle.jpg') no-repeat center/cover;
+    padding: 200px;
+    background: url('kasteel.avif') no-repeat center/cover;
     color: white;
     font-family: 'MedievalSharp', cursive;
 }
