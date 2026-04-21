@@ -13,10 +13,11 @@
 </header>
 
 <nav>
-    <a href="index.html">Home</a>
-    <a href="dagprogramma.html">Dagprogramma</a>
+    <a href="index.php">Home</a>
+    <a href="dagplanning.php">Dagprogramma</a>
     <a href="nieuws.php">Nieuws</a>
-    <a href="foto's.html">Bekijk foto's</a><br>
+    <a href="fotos.php">Bekijk foto's</a>
+    <a href="admin.php">Admin</a>
 </nav>
 
 <section class="hero">
@@ -25,9 +26,22 @@
 </section>
 
 
-<footer>
-    <p>KVW Gorinchem 2026</p>
-</footer>
 
+<h3>🏰 Welkom bij KVW Middeleeuwen<br><br>
+
+Stap terug in de tijd en beleef een spannend avontuur in de wereld van ridders, kastelen en jonkvrouwen! Tijdens KVW Middeleeuwen verandert het hele kampterrein in een echt middeleeuws dorp vol geheimen, opdrachten en avonturen.<br><br>
+
+Kinderen worden opgeleid tot dappere ridders, slimme ambachtslieden of hofjonkvrouwen. Samen beleven ze een week vol spel, creativiteit, teamwork en onvergetelijke momenten. Elke dag staat in het teken van nieuwe uitdagingen, spannende spellen en middeleeuwse magie.<br><br>
+
+Van het trainen als ridder tot het oplossen van mysterieuze opdrachten: alles draait om samenwerken, plezier maken en natuurlijk een flinke dosis fantasie!<br><br><br>
+
+📍 Kom erbij<br>
+
+Ben jij klaar voor dit avontuur?<br>
+
+Kom dan naar:<br>
+Mollenburgseweg 82, DaVinci Colleges<br>
+
+Daar begint jouw reis terug naar de Middeleeuwen! ⚔️🏹</h3><br>
 </body>
 </html>

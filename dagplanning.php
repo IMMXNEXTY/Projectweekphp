@@ -19,6 +19,22 @@ header{
     padding:20px;
 }
 
+nav{
+    background:#333;
+    text-align:center;
+    padding:10px;
+}
+
+nav a{
+    color:white;
+    margin:0 15px;
+    text-decoration:none;
+}
+
+nav a:hover{
+    text-decoration:underline;
+}
+
 table{
     width:80%;
     margin:40px auto;
@@ -51,6 +67,14 @@ tr:nth-child(even){
 <p>Activiteiten van maandag t/m vrijdag</p>
 </header>
 
+<nav>
+    <a href="index.php">Home</a>
+    <a href="dagplanning.php">Dagprogramma</a>
+    <a href="nieuws.php">Nieuws</a>
+    <a href="fotos.php">Bekijk foto's</a>
+    <a href="admin.php">Admin</a>
+</nav>
+
 <table>
 <tr>
 <th>Dag</th>
@@ -60,32 +84,32 @@ tr:nth-child(even){
 
 <tr>
 <td>Maandag</td>
-<td contenteditable="True">Knutselen – ridderslingers</td>
-<td contenteditable="True">Zandkastelen maken</td>
+<td contenteditable="true">Knutselen – ridderslingers</td>
+<td contenteditable="true">Zandkastelen maken</td>
 </tr>
 
 <tr>
 <td>Dinsdag</td>
-<td contenteditable="True">Kastelen tekenen</td>
-<td contenteditable="True">Levend Stratego</td>
+<td contenteditable="true">Kastelen tekenen</td>
+<td contenteditable="true">Levend Stratego</td>
 </tr>
 
 <tr>
-<td>(Bom)Woensdag</td>
-<td contenteditable="True">Bond-trefbal</td>
-<td contenteditable="True">Bomtikkertje</td>
+<td>Woensdag</td>
+<td contenteditable="true">Bond-trefbal</td>
+<td contenteditable="true">Bomtikkertje</td>
 </tr>
 
 <tr>
 <td>Donderdag</td>
-<td contenteditable="True">Mike vertelt (Ridder Mike)</td>
-<td contenteditable="True">Capture the Flag</td>
+<td contenteditable="true">Mike vertelt (Ridder Mike)</td>
+<td contenteditable="true">Capture the Flag</td>
 </tr>
 
 <tr>
 <td>Vrijdag</td>
-<td contenteditable="True">Bouncy Castle</td>
-<td contenteditable="True">VrijMiBo</td>
+<td contenteditable="true">Bouncy Castle</td>
+<td contenteditable="true">VrijMiBo</td>
 </tr>
 
 </table>
